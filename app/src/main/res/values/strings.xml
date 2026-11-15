@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">English Guru</string>
+    <string name="nav_home">હોમ</string>
+    <string name="nav_lessons">પાઠ</string>
+    <string name="nav_words">શબ્દો</string>
+    <string name="nav_quiz">ક્વિઝ</string>
+    <string name="nav_progress">પ્રગતિ</string>
+
+    <string name="home_greeting">નમસ્તે!</string>
+    <string name="home_subtitle">ધોરણ 1 થી 8 સુધીનું સરળ અંગ્રેજી શિક્ષણ.</string>
+    <string name="home_start_learning">શીખવાનું શરૂ કરો</string>
+    <string name="home_your_progress">તમારી પ્રગતિ</string>
+    <string name="home_completed_lessons">પૂર્ણ પાઠ</string>
+    <string name="home_best_score">શ્રેષ્ઠ સ્કોર</string>
+    <string name="home_word_of_day">આજનો શબ્દ</string>
+    <string name="home_next_word">બીજો શબ્દ</string>
+    <string name="home_take_quiz">ક્વિઝ રમો</string>
+    <string name="home_vocab_count">%1$d+ શબ્દો અને %2$d પાઠ</string>
+
+    <string name="lessons_title">શીખવાના પાઠ</string>
+    <string name="lessons_subtitle">ધોરણ 1 થી 8 સુધી પગલું-દર-પગલું અંગ્રેજી શીખો</string>
+    <string name="lesson_complete_button">પાઠ પૂર્ણ કર્યો</string>
+    <string name="lesson_completed_badge">પૂર્ણ</string>
+    <string name="lesson_examples_count">%1$d ઉદાહરણ</string>
+    <string name="lesson_rule_title">મુખ્ય નિયમ / સમજૂતી</string>
+
+    <string name="level_all">બધા પાઠ</string>
+    <string name="level_std_1_3">ધોરણ 1–3</string>
+    <string name="level_std_4_6">ધોરણ 4–6</string>
+    <string name="level_std_7_8">ધોરણ 7–8</string>
+
+    <string name="words_title">શબ્દભંડોળ</string>
+    <string name="words_subtitle">ધોરણ 1 થી 8 માટે મહત્વના અંગ્રેજી શબ્દો</string>
+    <string name="words_search_hint">અંગ્રેજી કે ગુજરાતી શબ્દ શોધો...</string>
+    <string name="words_pronunciation_format">ઉચ્ચાર: %1$s</string>
+    <string name="words_empty">કોઈ મેળ ખાતો શબ્દ મળ્યો નથી</string>
+    <string name="words_count_format">%1$d શબ્દો</string>
+
+    <string name="cat_all">બધા</string>
+    <string name="cat_school">શાળા અને અભ્યાસ</string>
+    <string name="cat_daily">રોજિંદા અને કુટુંબ</string>
+    <string name="cat_verbs">ક્રિયાપદો</string>
+    <string name="cat_adjectives">વિશેષણો</string>
+    <string name="cat_nature">સમય અને પ્રકૃતિ</string>
+
+    <string name="quiz_title">અંગ્રેજી ક્વિઝ</string>
+    <string name="quiz_subtitle">ધોરણ મુજબ તમારી સમજ ચકાસો</string>
+    <string name="quiz_choose_level">ધોરણ / વિભાગ પસંદ કરો</string>
+    <string name="quiz_level_all">મિશ્ર ક્વિઝ (બધા ધોરણ)</string>
+    <string name="quiz_intro_format">આ ટેસ્ટમાં %1$d પ્રશ્નો છે. દરેક પ્રશ્નનો સાચો જવાબ પસંદ કરો.</string>
+    <string name="quiz_start_button">ટેસ્ટ શરૂ કરો</string>
+    <string name="quiz_question_progress">પ્રશ્ન %1$d / %2$d</string>
+    <string name="quiz_correct">સાચો જવાબ!</string>
+    <string name="quiz_wrong_format">સાચો જવાબ: %1$s</string>
+    <string name="quiz_next_question">આગળનો પ્રશ્ન</string>
+    <string name="quiz_view_result">પરિણામ જુઓ</string>
+    <string name="quiz_finished_title">તમારો ટેસ્ટ પૂર્ણ થયો!</string>
+    <string name="quiz_score_format">તમારો સ્કોર: %1$d / %2$d (%3$d%%)</string>
+    <string name="quiz_save_score">સ્કોર સાચવો</string>
+    <string name="quiz_saved_notice">સ્કોર સાચવવામાં આવ્યો!</string>
+    <string name="quiz_play_again">ફરીથી રમો</string>
+
+    <string name="progress_title">તમારી પ્રગતિ</string>
+    <string name="progress_subtitle">તમારી શીખવાની સફર</string>
+    <string name="progress_lessons_done">પૂર્ણ કરેલા પાઠ</string>
+    <string name="progress_lessons_ratio">%1$d / %2$d</string>
+    <string name="progress_best_quiz">શ્રેષ્ઠ ક્વિઝ સ્કોર: %1$d%%</string>
+    <string name="progress_quizzes_taken">કુલ આપેલી ક્વિઝ: %1$d</string>
+    <string name="progress_daily_tip">દરરોજ ઓછામાં ઓછા 10 નવા શબ્દો અને 1 પાઠનો અભ્યાસ કરો!</string>
+    <string name="progress_reset">પ્રગતિ રીસેટ કરો</string>
+    <string name="progress_checklist_title">પાઠની સ્થિતિ</string>
+
+    <string name="cd_back">પાછા</string>
+    <string name="cd_speak">ઉચ્ચાર સાંભળો</string>
+    <string name="cd_hero_banner">અંગ્રેજી શીખવાના પુસ્તકો અને સંવાદનું ચિત્ર</string>
+    <string name="cd_clear_search">શોધ સાફ કરો</string>
+</resources>

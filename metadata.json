@@ -1,0 +1,6 @@
+{
+  "name": "English Guru",
+  "description": "Gujarati-to-English learning app with interactive lessons, vocabulary with Text-to-Speech pronunciation, MCQ quizzes, and local progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
